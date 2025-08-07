@@ -19,7 +19,7 @@ A Zabbix template for monitoring DNS server performance and availability across 
 
 1. **Download the Template**
    ```bash
-   wget https://github.com/your-repo/template_dns_monitoring/raw/main/template_dns_monitoring.yaml
+   wget https://raw.githubusercontent.com/McKinnonIT/template-dns-monitoring/refs/heads/main/template_dns_monitoring.yaml
    ```
 
 2. **Import into Zabbix**
